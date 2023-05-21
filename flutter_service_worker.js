@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.json": "e22793c6abb98590cd9c44c969425559",
-"assets/AssetManifest.smcbin": "93e32608eb34498babf929f2519b6a5c",
+const RESOURCES = {"assets/AssetManifest.json": "77fc2e31fe2c7dd1233d860344000d76",
+"assets/AssetManifest.smcbin": "d48dceef7e1bba05ed77dc5f8b51539e",
 "assets/assets/CV_PIC_ENG.png": "1a31ef92754451aa231783ab5f760f44",
 "assets/assets/CV_PIC_SWE.png": "803e0ae739f1fdfe1653590831625e18",
 "assets/assets/dogwalk1.jpg": "d89498c3588fde7077e684a5448d7fa5",
@@ -16,6 +16,9 @@ const RESOURCES = {"assets/AssetManifest.json": "e22793c6abb98590cd9c44c96942555
 "assets/assets/playeasychamps1.jpg": "d2f3eb0ed2802710dcdf7ec680e59664",
 "assets/assets/playeasychamps2.jpg": "08afdc1d89459d84c3537cbe9d2b34f5",
 "assets/assets/playeasychamps3.jpg": "12a7ba816b577d35fa40cb6772970aa0",
+"assets/assets/portfolio1.jpg": "2c3380dc5bdf70f8c8f6883147042b3c",
+"assets/assets/portfolio2.png": "c5a4faf20362387c7b3b6133fbb52bdb",
+"assets/assets/portfolio3.jpg": "3b4bb18d155b9ab68e48b58dfe28bf58",
 "assets/assets/profile_photo_centered.jpg": "3906f4d14168c3d3a07ba080ffb59e90",
 "assets/assets/starbackground.jpg": "d058be0c586d53ce26a808468531b766",
 "assets/FontManifest.json": "3ddd9b2ab1c2ae162d46e3cc7b78ba88",
@@ -38,9 +41,9 @@ const RESOURCES = {"assets/AssetManifest.json": "e22793c6abb98590cd9c44c96942555
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "03663d88ab74a5c481d086e4a83e5294",
-"/": "03663d88ab74a5c481d086e4a83e5294",
-"main.dart.js": "4b1e737c970594c58e005859a4860d0b",
+"index.html": "840c3dac3f0e82c8c79c12cc5b2b8e68",
+"/": "840c3dac3f0e82c8c79c12cc5b2b8e68",
+"main.dart.js": "56fcde11af87a9637845a68a9cc970aa",
 "manifest.json": "e74af8957b5899dc6da961caee768ec9",
 "version.json": "0325640b78b9f97959290dc5ebb8b3ed"};
 // The application shell files that are downloaded before a service worker can
